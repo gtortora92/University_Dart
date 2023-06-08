@@ -1,5 +1,6 @@
 import "course.dart";
 import "teacher.dart";
+import "university.dart";
 void main() {
   print("First Commit");
 
@@ -9,6 +10,6 @@ void main() {
  Course c1 = Course(t1, "64-365", "Algebra", "Informatica triennale", "Corso di base di algebra");
 
 //  Teacher c1Teacher = c1.getTeacher();
-
+    University('teachers.txt', 'courses.txt');
 
 }
