@@ -8,7 +8,7 @@ void main() {
  
  Course c1 = Course(t1, "64-365", "Algebra", "Informatica triennale", "Corso di base di algebra");
 
- Teacher c1Teacher = c1.getTeacher();
- print(c1Teacher.getCF());
- print(c1Teacher.getName());
+//  Teacher c1Teacher = c1.getTeacher();
+
+
 }
