@@ -1,0 +1,20 @@
+{
+  "teachers": [
+    {
+      "cf": "aaaa",
+      "name": "Dino",
+      "surname": "Sasso",
+      "dateOfBirth": "1000-10-15",
+      "role": "ricercatore",
+      "department": "ING-INF/05"
+    },
+    {
+        "cf": "ojfoef",
+        "name": "Angelo",
+        "surname": "La Pietra",
+        "dateOfBirth": "1990-10-15",
+        "role": "ricercatore",
+        "department": "ING-INF/05"
+      }
+  ]
+}

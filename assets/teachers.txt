@@ -1,4 +1,0 @@
-Codice Fiscale: aaa
-Nome: aaaaaaa
-Cognome: bbbbbb
-Data di nascita: gg-mm-AaAa

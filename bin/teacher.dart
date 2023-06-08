@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_final_fields
+
 class Teacher {
   final String _cf;
   final String _name;
@@ -31,5 +33,10 @@ class Teacher {
 
   String getDepartment() {
     return _department;
+  }
+
+
+  void printTeacher () {
+ print("$_name $_surname $_cf $_dateOfBirth $_role $_department");
   }
 }

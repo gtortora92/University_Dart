@@ -1,0 +1,19 @@
+{
+    "courses": [
+      {
+        "cf": "aaaa",
+        "code": "64-365",
+        "name": "Programmazione",
+        "degreeCourse": "Informatica triennale",
+        "description": "Corso base di programmazione"
+      },
+      {
+        "cf": "ojfoef",
+        "code": "65-365",
+        "name": "Algebra",
+        "degreeCourse": "Algebra triennale",
+        "description": "Corso base di algebra"
+      }
+    ]
+  }
+  

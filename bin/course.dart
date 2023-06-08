@@ -29,4 +29,8 @@ class Course {
   String getDescription() {
     return _description;
   }
+
+  void printCourse() {
+    print("$_name ${_teacher.getName()} ${_teacher.getSurname()} $_degreeCourse $_code $_description");
+  }
 }
